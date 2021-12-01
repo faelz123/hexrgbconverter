@@ -1,5 +1,5 @@
 //recebe o valor -> ex rgb(255,255,255) #FFFFFF
-var entrada = prompt("Digite o rgb ou o hexadecimal");
+var entrada = prompt("Digite o RGB ou o Hexadecimal");
 
 //recebe o valor
 converter = (entrada) => {
